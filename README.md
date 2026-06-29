@@ -84,7 +84,7 @@ No request body needed.
 
 4. Get Dashboard
 ```json
-POST /users/1/dashboard
+GET /users/1/dashboard
 ```
 
 5. Get LeaderBoard
